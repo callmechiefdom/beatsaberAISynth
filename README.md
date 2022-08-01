@@ -1,5 +1,5 @@
 # beatsaberAISynth
-+ data prepared
++ [data prepared](https://github.com/callmechiefdom/BeatsaberMapsAnalysis)
 	+ ./datasetAll.json
 	+ ./glove/malody.txt
 + cd glove && make
